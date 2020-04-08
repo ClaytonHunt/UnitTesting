@@ -1,0 +1,19 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/unit-testing/v16
+/.vs/slnx.sqlite
+/.vs/VSWorkspaceState.json
+/Training/.vs/Training
+/Training/Training.App.Console/bin/Debug/netcoreapp3.1
+/Training/Training.App.Console/obj
+/Training/Training.FizzBuzz.Business/bin/Debug/netstandard2.0
+/Training/Training.FizzBuzz.Business/obj
+/Training/Training.FizzBuzz.Tests/obj
+/Training/Training.StringCalculator.Business/bin/Debug/netstandard2.0
+/Training/Training.StringCalculator.Business/obj
+/Training/Training.StringCalculator.Tests/obj
+/Training/_NCrunch_Training
+*.ncrunchsolution
+*.user
